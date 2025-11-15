@@ -30,3 +30,4 @@ You Can Use -std=c++14 to solve.
 
 <p style="color:red;">2000001:Using UNIX,Can't play Chiptune music.</p>
 <p style="color:red;">2000002:Using Windows,Can't Load the maze(Can show,Can't play.).</p>
+(Can you see color?I can't.)
