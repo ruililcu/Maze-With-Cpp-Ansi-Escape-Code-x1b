@@ -12,7 +12,7 @@ int main()
 #include<bits/stdc++.h>
 int main()
 {
-	printf("Error 2%d:This Code CAN'T run in Less than cpp11.",__cplusplus);
+	printf("Error 1%d:This Code CAN'T run in Less than cpp11.",__cplusplus);
 	return 0;
 }
 #else
@@ -105,7 +105,7 @@ int main()
 	#else
 	cout<<"\x1b[33mWelcome To The Maze Game(Unix Editon)!\n";
 	#endif
-	if(!asd)cout<<"\nError 2000001:YOU COMPUTER CAN'T PLAY THE MAZE(JUST SHOW YOU)!\n";
+	if(!asd)cout<<"\nError 2000002:YOU COMPUTER CAN'T PLAY THE MAZE(JUST SHOW YOU)!\n";
 	thread cpth(Chiptune);
 	cout<<"\n\x1b[33mplease maxinum the window!\n\x1b[91mGet Mode(rand/seed/read-save)...";
 	cin>>mazm;
@@ -191,3 +191,4 @@ int main()
 #endif
 #endif
 #endif
+
