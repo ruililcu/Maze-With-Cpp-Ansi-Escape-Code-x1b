@@ -2,7 +2,7 @@
 Welcome To The Maze Game(Windows/Unix Editon)!
 
 please maxinum the window!
-Get Mode(rand/seed/read-save)...rand
+Get Mode(rand/seed/read-save)...
 
 Get Size(<500)...50
 Building The Maze...
