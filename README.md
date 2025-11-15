@@ -17,3 +17,16 @@ Input The difficult(easy/middle/hard,expect read-save.)
 Building Ending
 The Maze:
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bc305e39-c549-4851-b9d2-93b5ffb2cb20" />
+<h2 color="red">Errors</h2>
+
+#### Compile errors:
+
+<p color="red">1000000:Using the C compiler.</p>
+<p color="red">1199711:Using the Cpp98/03 compiler.</p>
+<br>
+You Can Use -std=c++14 to solve.
+
+#### System warnings:
+
+<p color="red">2000001:Using UNIX,Can't play Chiptune music.</p>
+<p color="red">2000001:Using Windows,Can't Load the maze(Can show,Can't play.).</p>
